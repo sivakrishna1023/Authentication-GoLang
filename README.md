@@ -15,5 +15,3 @@ Topics covered:
 - Authentication Middleware to Valid JWTs
 - Gin Routing & Grouping
 - Testing Golang API with VSCode REST Client
-
-Read the entire article here: https://codewithmukesh.com/blog/jwt-authentication-in-golang/
