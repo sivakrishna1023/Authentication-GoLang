@@ -2,8 +2,6 @@
 
 In this article, we will learn about implementing JWT Authentication in Golang REST APIs and securing it with Authentication Middleware. We will be building a simple, yet neatly organized Golang REST API with packages like Gin for Routing (mostly), GORM for persisting user data to a MySQL Database, and so on.
 
-![Implementing JWT Authentication in Golang](https://codewithmukesh.com/wp-content/uploads/2022/04/Implementing-JWT-Authentication-in-Golang-with-Gin-Gorm-MySQL.png)
-
 Topics covered:
 
 - JWT Explained
